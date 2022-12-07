@@ -1,1 +1,2 @@
-# CYSE465FINAL
+# CYSE465FINAL - Aidan Shaughnessy 
+Aidan Shaughnessy helped with the research of the Man in the Middle attack and one of the main contributers of the reserach analysis paper. By researching about what a man in the middle attack was and its implementation we were able to  devised a man-in-the-middle attack by making use of the unique packet signatures used to communicate between LiDAR and other systems within the AV. Specifically, the Velodyne formatted packet data. As a researcher and report writer I did not go into the VM but I was there to communicate with my team and brainstorm about any given problem that was around and I always lent a helping hand. 
